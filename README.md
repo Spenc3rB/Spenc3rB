@@ -8,6 +8,6 @@
   - 🌱 Studying to get a M.S. in Systems Engineering with a focus on Heavy Vehicle Cyber Security
 
 - 📫 How to reach me:
-  - https://spenc3rb.github.io/portfolio/#contact
+  - Scroll all the way down from [https://spenc3rb.github.io/portfolio/#contact](https://www.engr.colostate.edu/~beersc/) to the bottom :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spenc3rB)](https://github.com/anuraghazra/github-readme-stats)
