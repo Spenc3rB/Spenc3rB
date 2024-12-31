@@ -6,5 +6,4 @@
   - 🌱 Studying to get a M.S. in Systems Engineering with a focus on Heavy Vehicle Cyber Security
 
 - 📫 How to reach me:
-  - Socials: https://www.linkedin.com/in/spencerbeer/
-  - Email: spencer@beerfamily.us | beersc@colostate.edu 🐏
+  - https://spenc3rb.github.io/portfolio/#contact
