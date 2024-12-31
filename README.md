@@ -9,3 +9,5 @@
 
 - 📫 How to reach me:
   - https://spenc3rb.github.io/portfolio/#contact
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spenc3rB)](https://github.com/anuraghazra/github-readme-stats)
