@@ -9,5 +9,3 @@
 
 - 📫 How to reach me:
   - Scroll all the way down from https://www.engr.colostate.edu/~beersc/ to the bottom :)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spenc3rB)](https://github.com/anuraghazra/github-readme-stats)
