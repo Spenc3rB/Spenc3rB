@@ -1,11 +1,8 @@
 ### Welcome to my GitHub page!
-- Currently:
-  - 🧑‍💼 Working on the [SystemsCyber Team @CSU](https://github.com/SystemsCyber). Follow our main website [here](https://systemscyber.engr.colostate.edu/).
-  - 🚘 Developing pentesting tools for the automotive sector.
-  - 🧑‍🔬 Researching security vulnerabilities within cummins engines, ELDs, and more to secure the transportation industry.
 
-  - ✅ Completed my B.S. in Embedded Systems & IoT with a minor in ML
-  - 🌱 Studying to get a M.S. in Systems Engineering with a focus on Heavy Vehicle Cyber Security
+- Currently:
+  - 🧑‍💼 Working for [Toyota Tsusho Systems (TTS)](https://www.ttsystems.com/us), as a contractor for [Toyota Motor North America](https://en.wikipedia.org/wiki/Toyota_Motor_North_America).
+  - 🚘 Developing pentesting tools for the automotive sector, and performing security analysis on embedded devices.
 
 - 📫 How to reach me:
   - Scroll all the way down from https://www.engr.colostate.edu/~beersc/ to the bottom :)
