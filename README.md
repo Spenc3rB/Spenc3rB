@@ -5,4 +5,4 @@
   - 🚘 Developing pentesting tools for the automotive sector, and performing security analysis on embedded devices.
 
 - 📫 How to reach me:
-  - Scroll all the way down from https://www.engr.colostate.edu/~beersc/ to the bottom :)
+  - Eventually 
